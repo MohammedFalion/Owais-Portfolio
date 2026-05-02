@@ -222,7 +222,7 @@ export default function Contact() {
               </div>
               <div className="terminal-body">
                 {[
-                  { icon: FaEnvelope, label: 'Email', value: 'owais@placeholder.dev', color: 'var(--green)' },
+                  { icon: FaEnvelope, label: 'Email', value: 'travian.bestt@hotmail.com', color: 'var(--green)' },
                 ].map((item) => (
                   <div key={item.label} style={{
                     display: 'flex',
@@ -253,7 +253,7 @@ export default function Contact() {
                   <br />
                   <span style={{ color: 'var(--green)' }}>▸</span> Game development projects
                   <br />
-                  <span style={{ color: 'var(--cyan)' }}>▸</span> Security consulting
+                  <span style={{ color: 'var(--cyan)' }}>▸</span> Penetration Testing
                   <br />
                   <span style={{ color: 'var(--neon)' }}>▸</span> CTF team collaboration
                   <br />

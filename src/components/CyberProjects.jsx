@@ -5,8 +5,8 @@ import { SiPython } from 'react-icons/si';
 
 const CYBER_PROJECTS = [
   {
-    id: 'vuln-scanner',
-    name: 'Vuln_Scanner',
+    id: 'jet-vuln-scanner',
+    name: 'Jet_Vuln_Scanner',
     description: 'A Python-based vulnerability scanner with socket and Nmap checks, CMS fingerprinting, SQL injection detection, XSS testing, and directory busting.',
     language: 'Python',
     langColor: '#3572A5',
@@ -15,7 +15,7 @@ const CYBER_PROJECTS = [
     forks: 0,
     lastCommit: 'Latest project',
     commitHash: 'main',
-    url: 'https://github.com/wesssso512/Vuln_Scanner',
+    url: 'https://github.com/wesssso512/Jet-Vuln-Scanner',
     icon: SiPython,
     status: 'active',
   },

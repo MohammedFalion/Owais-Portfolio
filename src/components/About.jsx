@@ -187,7 +187,7 @@ export default function About() {
                   fontSize: '11px',
                   color: 'black',
                 }}>
-                  @0xOwais
+                  @owais.boshnak
                 </div>
               </div>
               {/* Glowing border frame */}
