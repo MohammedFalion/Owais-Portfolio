@@ -19,6 +19,9 @@ const GAME_SKILLS = [
 ];
 
 const CYBER_SKILLS = [
+  { name: 'Nmap',                color: 'var(--cyan)'  },
+  { name: 'BeautifulSoup',       color: 'var(--green)' },
+  { name: 'Socket Programming',   color: 'var(--neon)' },
   { name: 'Penetration Testing', color: 'var(--cyan)'  },
   { name: 'Kali Linux',          color: 'var(--green)' },
   { name: 'Metasploit',          color: 'var(--red)'   },

@@ -5,7 +5,7 @@ import avatarImg from '../assets/owais.jpg';
 const STATS = [
   { label: 'Years XP',      value: '5+',  color: 'var(--green)' },
   { label: 'Games Shipped', value: '3',   color: 'var(--cyan)'  },
-  { label: 'CVEs Found',    value: '50+', color: 'var(--neon)'  },
+  { label: 'Certs Earned', value: '11',  color: 'var(--neon)'  },
   { label: 'Bugs Squashed', value: '♾️',   color: 'var(--yellow)'},
 ];
 
@@ -74,7 +74,8 @@ export default function About() {
                   Hey! I'm a <span style={{ color: 'var(--cyan)' }}>Game Developer</span> and{' '}
                   <span style={{ color: 'var(--green)' }}>Cybersecurity Expert</span> who lives at the
                   intersection of creativity and security. I build immersive mobile games that players
-                  love, and I hunt vulnerabilities that won't keep systems safe.
+                  love, I build immersive mobile games that players love, and pursue cybersecurity 
+                  through projects, CTFs, and continuous learning..
                 </p>
 
                 <p style={{ color: 'var(--green)', marginBottom: '8px' }}>

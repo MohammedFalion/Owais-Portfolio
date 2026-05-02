@@ -19,7 +19,7 @@ export default function Contact() {
   const [form, setForm]       = useState({ name: '', email: '', subject: '', message: '' });
   const [sent, setSent]       = useState(false);
   const [focused, setFocused] = useState('');
-  const recipientEmail = 'owais@placeholder.dev';
+  const recipientEmail = 'travian.bestt@hotmail.com';
 
   const handleChange = (e) => setForm({ ...form, [e.target.name]: e.target.value });
 
